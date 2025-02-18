@@ -10,6 +10,7 @@
 **Japanese Government MEXT Scholarship @ Embassy of Japan in Cambodia (Mar 2023)**
 - Selected as a research student awardee
 - Nominated as a MEXT-ASJA student in the batch 2023
+
 **Innovation Award @ Business Model Competition ()**
 - Proposed a social venture study called "BloodAid+", focusing on building an ecosystem platform for all stakeholders such as Blood donors, Blood Banks and others to ease the process of donating the bloods and promoting more blood donation in Cambodia.
 
