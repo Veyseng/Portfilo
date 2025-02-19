@@ -2,7 +2,7 @@
 
 #### Technical Skills: Python, Java, Javascript, Docker, Kubernetes
 
-### Languages: Khmer (native), Engish (Professional), Chinese (Basic), Japanese (Basic)
+#### Languages: Khmer (native), Engish (Professional), Chinese (Basic), Japanese (Basic)
 
 ## Education
 - M.S., Information and Communications Engineering	| Institute of Science Tokyo, Japan (_Sep 2023 to Present_)	 			        		
