@@ -18,10 +18,10 @@
 
 ## Participations
 **JICA Short-term Program of Innovative Asia: Okayama
-University: IT and RT training for supporting health program**_18th to 29th Oct 2021_
+University: IT and RT training for supporting health program** _(18th to 29th Oct 2021)_
 - Learned to understand the medical researches and studies in Japan
 - Worked with Java code to support the process of the basic inventory management in a hospital
   
-**ASEAN-India Hackathon Challenge**_1st to 4th Feb 2021_
+**ASEAN-India Hackathon Challenge** _(1st to 4th Feb 2021)_
 - Learned how to solve problems inside the team
 - Focused on the problem on the emission tracking
